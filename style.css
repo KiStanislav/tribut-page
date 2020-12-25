@@ -1,0 +1,51 @@
+html {
+  font-size: 10px;
+}
+h1 {
+  font-size: 4rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  letter-spacing: 0.5rem;
+}
+h4 {
+  margin: 50px;
+}
+a {
+  color: #32618a;
+}
+main {
+  background-color: rgb(240, 240, 240);
+  margin: 30px 8px;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+p {
+  font-size: 2rem;
+  font-style: italic;
+}
+li {
+  margin: 15px auto;
+}
+#img-div {
+  background-color: rgb(245, 245, 245);
+  padding: 7% 7% 1% 7%;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px gray;
+}
+img {
+  max-width: 100%;
+}
+#heading {
+  text-align: center;
+  margin: 50px;
+}
+#img-caption {
+  font-size: 2rem;
+  font-style: italic;
+}
+#tribute-info {
+  max-width: 600px;
+  margin: 5% auto;
+  font-size: 2rem;
+  text-align: left;
+}
