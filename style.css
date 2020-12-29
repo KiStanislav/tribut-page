@@ -13,7 +13,7 @@ time {
   font-weight: 700;
 }
 a {
-  color: #32618a;
+  color: rgb(50, 97, 138);
 }
 main {
   background-color: rgb(240, 240, 240);
@@ -31,7 +31,7 @@ li {
 }
 #img-div {
   background-color: rgb(245, 245, 245);
-  padding: 7% 7% 1% 7%;
+  padding: 3% 5% 1% 5%;
   border-radius: 5px;
   box-shadow: 2px 2px 2px gray;
 }
