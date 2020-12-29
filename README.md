@@ -1,2 +1,2 @@
-# tribut-page
-[Task Tribut Page](https://KiStanislav.github.io/tribut-page/index.html)
+# tribute-page
+[Task Tribute Page](https://KiStanislav.github.io/tribute-page/index.html)
